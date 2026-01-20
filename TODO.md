@@ -45,4 +45,9 @@ Créer un README plus complet, professionnel et engageant tout en gardant la lan
 ✅ Réécriture du README terminée
 
 ## 📅 Date de modification
-2024
+2026
+
+## Articles interessants 
+1. https://www.freecodecamp.org/news/create-personalized-github-profile-page/
+2. https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+3. https://www.freecodecamp.org/news/go-automate-your-github-profile-readme/

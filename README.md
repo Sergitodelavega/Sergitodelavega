@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Sergio Lissanou
+# 👋 Hello, I'm Sergio Lissanou
 
 <div align="center">
 
@@ -10,18 +10,18 @@
 
 ---
 
-## 🚀 À propos de moi
+## 🚀 About Me
 
-Développeur passionné par l'open source et la création de solutions innovantes. Avec une expérience solide dans le développement web, je m'efforce de créer des applications robustes, performantes et conviviales.
+Passionate developer focused on open source and building innovative solutions. With solid experience in web development, I strive to create robust, high-performance, and user-friendly applications.
 
-- 💻 **Développement** : Création d'applications web de A à Z
-- 🌱 **Apprentissage** : Toujours en train d'explorer de nouvelles technologies et méthodologies
-- 🤝 **Collaboration** : Ouvert aux projets open source et au travail d'équipe
-- 🎯 **Objectif** : Construire des outils qui simplifient la vie des utilisateurs
+- 💻 **Development** : Building web applications from scratch
+- 🌱 **Learning** : Always exploring new technologies and methodologies
+- 🤝 **Collaboration** : Open to teamwork and contributing to open source projects
+- 🎯 **Goal** : Create tools that make users’ lives easier
 
 ---
 
-## 🛠️ Stack technique
+## 🛠️ Tech Stack
 
 ### 🎨 Frontend
 <div>
@@ -44,7 +44,7 @@ Développeur passionné par l'open source et la création de solutions innovante
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </div>
 
-### 🐳 DevOps & Outils
+### 🐳 DevOps & Tools
 <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
@@ -55,29 +55,29 @@ Développeur passionné par l'open source et la création de solutions innovante
 
 ---
 
-## 📂 Projets phares
+## 📂 Featured Projects
 
-### 🔗 [MonProjet](https://github.com/JeanDev/MonProjet)
-> Application web moderne construite avec les dernières technologies
+### 🔗 [MyProject](https://github.com/JeanDev/MonProjet)
+> A modern web application built with the latest technologies
 
-**Technologies utilisées :**
+**Technologies used :**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-**Fonctionnalités clés :**
-- ✅ Interface utilisateur moderne et responsive
-- ✅ Authentication sécurisée avec JWT
-- ✅ API RESTful performante
-- ✅ Base de données optimisée
+**Key Features :**
+- ✅ Modern, responsive user interface
+- ✅  Secure authentication with JWT
+- ✅ High-performance RESTful API
+- ✅ Optimized database
 
-**Liens :**
-- 🚀 [Voir le projet](https://github.com/JeanDev/MonProjet)
-- 🌐 [Démo en direct](https://monprojet-demo.com)
+**Links :**
+- 🚀 [View Project](https://github.com/JeanDev/MonProjet)
+- 🌐 [Live Demo](https://monprojet-demo.com)
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -100,7 +100,7 @@ Développeur passionné par l'open source et la création de solutions innovante
 
 ---
 
-## 📫 Me contacter
+## 📫 Contact Me
 
 <div>
 
@@ -114,25 +114,25 @@ Développeur passionné par l'open source et la création de solutions innovante
 
 ## 🤝 Contribution & Collaboration
 
-Je suis toujours ouvert aux nouvelles opportunités de collaboration ! Que ce soit pour :
-- 💡 Un projet open source
-- 🤝 Un projet d'équipe
-- 🎯 Une mission freelance
-- 💼 Une opportunité d'emploi
+I’m always open to new collaboration opportunities! Whether it’s for:
+- 💡  An open source project
+- 🤝 A team project
+- 🎯 A freelance mission
+- 💼 A job opportunity
 
-N'hésitez pas à me contacter via LinkedIn ou par email.
+Feel free to reach out via LinkedIn or email.
 
 ---
 
 ## ⚡ Fun fact
 
-Quand je ne code pas, vous me trouverez probablement en train d'explorer de nouveaux frameworks, de contribuer à des projets open source, ou de prendre un bon café ☕ tout en discutant tech !
+When I’m not coding, you’ll probably find me exploring new frameworks, contributing to open source projects, or enjoying a good coffee ☕ while talking tech!
 
 ---
 
 <div align="center">
 
-⭐️ *Merci de visiter mon profil !* ⭐️
+⭐️ *Thanks for visiting my profile!* ⭐️
 
 </div>
 
