@@ -9,7 +9,7 @@
 </div>
 
 ---
-
+<div style="font-size:20px">
 ## 🚀 About Me
 
 Passionate developer focused on open source and building innovative solutions. With solid experience in web development, I strive to create robust, high-performance, and user-friendly applications.
@@ -17,7 +17,7 @@ Passionate developer focused on open source and building innovative solutions. W
 - 💻 **Development** : Building web applications from scratch
 - 🌱 **Learning** : Always exploring new technologies and methodologies
 - 🤝 **Collaboration** : Open to teamwork and contributing to open source projects
-- 🎯 **Goal** : Create tools that make users’ lives easier
+- 🎯 **Goal** : Create tools that make users’ lives easier</div>
 
 ---
 
